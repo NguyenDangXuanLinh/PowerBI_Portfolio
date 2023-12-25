@@ -1,7 +1,15 @@
 # PowerBI_Portfolio
 </br>
+My projects are displayed both in Power BI and NovyPro for you to see.
 
-## [1. Pizza Sales Report](https://app.powerbi.com/view?r=eyJrIjoiMDMwMjRjMjQtYzJlNC00OTgwLWIxYmEtNDRkMjZkNjg3NDI0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+## Portfolio in NovyPro 
+### 1. Pizza Sales Report 
+  https://www.novypro.com/project/pizza-sales-report--1
+</br>
+
+## Portfolio in Power BI
+
+### [1. Pizza Sales Report](https://app.powerbi.com/view?r=eyJrIjoiMDMwMjRjMjQtYzJlNC00OTgwLWIxYmEtNDRkMjZkNjg3NDI0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 This portfolio using MySQL to analyze sales report and using Power BI to visualize dashboard for overall sales report and Best & Worst Sellers
 </br>
 
